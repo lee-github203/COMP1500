@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\bin\Debug\DisplayConstants.exe.config
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\bin\Debug\DisplayConstants.exe
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\bin\Debug\DisplayConstants.pdb
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\obj\Debug\DisplayConstants.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\obj\Debug\DisplayConstants.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\obj\Debug\DisplayConstants.exe
+C:\Users\USER\Desktop\fichier\Coding\C#\COMP1500\section03\27\DisplayConstants\obj\Debug\DisplayConstants.pdb
